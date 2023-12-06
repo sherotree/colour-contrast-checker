@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+
+# testing
+__snapshots__
+
+# production
+build
+
+# misc
+[Tt]humbs.db
+.DS_Store
+.env.*
+.dccache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
